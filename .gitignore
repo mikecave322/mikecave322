@@ -1,4 +1,0 @@
-node_modules/
-.env
-data/sent-log.json
-data/notifier.db*
